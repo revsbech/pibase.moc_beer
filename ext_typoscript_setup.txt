@@ -1,0 +1,7 @@
+plugin.tx_mocbeer_pi1 {
+	var = value
+	nestedVar {
+		var = value
+		var2 = value2
+	}
+}
